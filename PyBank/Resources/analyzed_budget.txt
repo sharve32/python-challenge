@@ -1,0 +1,7 @@
+Financial Analysis
+----------------------------
+Total Months: {months}
+Total Net: {total}
+Average Change: {avg_change}
+Greatest Increase in Profits: {bank_list[max_profit_in][0]} ({max_profit})
+Greatest Decrease in Profits: {bank_list[max_loss_in][0]} ({max_loss})
